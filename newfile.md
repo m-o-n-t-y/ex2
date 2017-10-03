@@ -4,3 +4,5 @@ Magnet app for iOS.
 
 
 OK, making this file **much** better right now.
+
+Setting up a conflict.
